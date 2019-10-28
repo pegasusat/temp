@@ -107,6 +107,8 @@ var good_da_host_exceptions_JSON = { "diagnostics.support.microsoft.com": null,
 var good_da_host_exceptions_exact_flag = 39 > 0 ? true : false;  // test for non-zero number of rules
 
 var bad_da_host_JSON = { "jobthread.com": null,
+"github.map.fastly.net": null,
+"151.101.196.133": null,
 "webvisor.ru": null,
 "app-valley.vip": null,
 "redirector.googlevideo.com": null,
