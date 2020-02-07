@@ -13,6 +13,8 @@ var blackhole = "PROXY " + blackhole_ip_port;
 // 
 // 71 rules:
 var good_da_host_JSON = { "apple.com": null,
+"mesu.apple.com": null,
+"xp.apple.com": null,
 "icloud.com": null,
 "apple-dns.net": null,
 "swcdn.apple.com": null,
@@ -105,13 +107,6 @@ var good_da_host_exceptions_JSON = { "diagnostics.support.microsoft.com": null,
 var good_da_host_exceptions_exact_flag = 39 > 0 ? true : false;  // test for non-zero number of rules
 
 var bad_da_host_JSON = { "jobthread.com": null,
-"ocsp.int-x3.letsencrypt.org": null,
-"world-gen.g.aaplimg.com": null,
-"mesu.apple.com": null,
-"gdmf.apple.com": null,
-"xp.apple.com": null,
-"appldnld.apple.com": null,
-"swscan.apple.com": null,
 "webvisor.ru": null,
 "github.map.fastly.net": null,
 "151.101.196.133": null,
