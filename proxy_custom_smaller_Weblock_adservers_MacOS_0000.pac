@@ -108,6 +108,7 @@ var good_da_host_exceptions_exact_flag = 39 > 0 ? true : false;  // test for non
 
 var bad_da_host_JSON = { "jobthread.com": null,
 "github.map.fastly.net": null,
+"r3---sn-n4v7knlk.googlevideo.com": null,                        
 "151.101.196.133": null,
 "adziff.com": null,
 "nastydollars.com": null,
