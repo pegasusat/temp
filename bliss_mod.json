@@ -12,8 +12,8 @@
             "#222222",
             "#FFFFFF"
         ],
-        "BACKGROUND_PRIMARY": ["#303030", "#ffffff"],
-        "BACKGROUND_SECONDARY": ["#222222", "#FFFFFF"],
+        "BACKGROUND_PRIMARY": ["#383838", "#BDB9B3"],
+        "BACKGROUND_SECONDARY": ["#383838", "#BDB9B3"],
         "BACKGROUND_SECONDARY_ALT": ["#4d4e50", "#FFFFFF"],
         "BACKGROUND_TERTIARY": ["#222222", "#FFFFFF"],
         "BACKGROUND_ACCENT": ["#eed2c8d4", "#FFFFFF"],
