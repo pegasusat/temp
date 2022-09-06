@@ -1,11 +1,11 @@
 {
-  "name": "RosieBlue_day”,
-  "description": "m",
+  "name": "RosieBlue",
+  "description": "meow",
   "version": "1.0",
   "authors": [
     {
-      "name": "ros",
-      "id": "318191466373709899”
+      "name": "rosie",
+      "id": "318191466373709826"
     }
   ],
   "theme_color_map": {
@@ -151,7 +151,7 @@
   },
   "background": {
     "blur": 0.1,
-    "url": "https://raw.githubusercontent.com/pegasusat/temp/299af8c228dbf9b5415994952edcc353e9eff2f6/Discord_background_white.png",
+    "url": "https://cdn.discordapp.com/attachments/864703971860152320/1003750594458169344/Untitled1059_20220801154616.png",
     "alpha": 1.0
   }
 }
