@@ -51,13 +51,14 @@
         "BRAND_NEW": "#eed1c7",
         "STATUS_RED": "#eed1c7"
     },
-    "background": {
-		"blur": 1,
-		"url": "https://raw.githubusercontent.com/pegasusat/temp/master/Discord_white_2.png",
-		"alpha": 1
-	},
-
+    
     "unsafe_colors": {
         "CHAT_GREY": "#222222"
-    }
+    },
+	"background": {
+		"blur": 0.1,
+		"url": "https://raw.githubusercontent.com/pegasusat/temp/master/Discord_dark_background.png",
+		"alpha": 1
+	}
+
 }
