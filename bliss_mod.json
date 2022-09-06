@@ -1,11 +1,11 @@
 {
-    "name": "bliss",
+    "name": "bliss_mod",
     "version": "1.0",
     "description": "Theme based on SA Bliss keycaps.",
     "color": "#eed1c7",
     "authors": [{
-        "name": "Superuser",
-        "id": "419610859392860162"
+        "name": "me",
+        "id": "419610859392860126"
     }],
     "theme_color_map": {
         "KEYBOARD": [
