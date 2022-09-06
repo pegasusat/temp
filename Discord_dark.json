@@ -1,0 +1,14 @@
+{
+    "name": "Discord dark background",
+    "version": "1.0",
+    "description": "Discord dark background",
+    "authors": [{
+        "name": "me",
+        "id": "419610859392860001"
+    }],
+	"background": {
+		"blur": 0.1,
+		"url": "https://raw.githubusercontent.com/pegasusat/temp/master/Discord_dark_background.png",
+		"alpha": 1
+	}
+}
