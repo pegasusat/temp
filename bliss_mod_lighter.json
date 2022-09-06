@@ -1,0 +1,63 @@
+{
+    "name": "bliss_mod_light”,
+    "version": "1.0",
+    "description": "Theme based on SA Bliss keycaps.",
+    "color": "#eed1c7",
+    "authors": [{
+        "name": "Superuser",
+        "id": "419610859392860162"
+    }],
+    "theme_color_map": {
+        "KEYBOARD": [
+            "#E7CEC4",
+            "#222222"
+        ],
+        "BACKGROUND_PRIMARY": ["#EDE6DE", "#000000"],
+        "BACKGROUND_SECONDARY": ["#BFABAB", "#000000"],
+        "BACKGROUND_SECONDARY_ALT": ["#F6F0EA", "#000000"],
+        "BACKGROUND_TERTIARY": ["#D8DBDF", "#000000"],
+        "BACKGROUND_ACCENT": ["#4D3C32", "#000000"],
+        "BACKGROUND_FLOATING": ["#F7EAE4", "#000000"],
+        "BACKGROUND_NESTED_FLOATING": ["#FFFFFF", "#000000"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#FFF7F4", "#000000"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#FDF0E5", "#000000"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["#D2C4BF", "#000000"],
+        "BACKGROUND_MODIFIER_SELECTED": ["#DAC0B7", "#000000"],
+        "BACKGROUND_MODIFIER_ACCENT": ["#B5A28F", "#000000"],
+        "CHANNELTEXTAREA_BACKGROUND": ["#DDC7F6", "#000000"],
+        "CHANNELS_DEFAULT": ["#DADCDD", "#000000"],
+        "HEADER_PRIMARY": ["#514B49", "#000000"],
+        "HEADER_SECONDARY": ["#4A4543", "#000000"],
+        "INTERACTIVE_ACTIVE": ["#615A58", "#000000"],
+        "INTERACTIVE_MUTED": ["#747678", "#000000"],
+        "INTERACTIVE_NORMAL": ["#776E6B", "#000000"],
+        "TEXT_NORMAL": ["#181818", "#000000"],
+        "TEXT_MUTED": ["#524642", "#938B8B"],
+        "TEXT_LINK": ["#2A2523", "#3063E5"]
+    },
+    "colours": {
+        "PRIMARY_DARK": "#eed1c7",
+        "PRIMARY_DARK_100": "#f3e0da",
+        "PRIMARY_DARK_200": "#f3e0da",
+        "PRIMARY_DARK_300": "#5a5e6b",
+        "PRIMARY_DARK_360": "#41444d",
+        "PRIMARY_DARK_400": "#f3e0da",
+        "PRIMARY_DARK_500": "#f3e0da",
+        "PRIMARY_DARK_600": "#222222",
+        "PRIMARY_DARK_630": "#36393f",
+        "PRIMARY_DARK_700": "#4d4e50",
+        "PRIMARY_DARK_800": "#222222",
+        "WHITE": "#727577",
+        "BRAND_NEW": "#eed1c7",
+        "STATUS_RED": "#eed1c7"
+    },
+    "background": {
+		"blur": 0.1,
+		"url": "https://raw.githubusercontent.com/pegasusat/temp/master/Discord_light_background.png",
+		"alpha": 1
+	},
+
+    "unsafe_colors": {
+        "CHAT_GREY": "#FFFFFF"
+    }
+}
