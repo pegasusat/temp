@@ -1,11 +1,11 @@
 {
-  "name": "RosieDark",
-  "description": "Dark Rosie theme!!",
+  "name": "RosieDarker_mod",
+  "description": "Darker Rosie theme!!",
   "version": "1.0",
   "authors": [
     {
-      "name": "flower",
-      "id": "836452332387565589"
+      "name": "me",
+      "id": "836452332387566000"
     }
   ],
   "theme_color_map": {
@@ -42,11 +42,11 @@
       "#c7ccd1"
     ],
     "BACKGROUND_PRIMARY": [
-      "#111011",
+      "#1A1A1F",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#111011",
+      "#1A1A1F",
       "#f2f3f5"
     ],
     "BACKGROUND_SECONDARY_ALT": [
@@ -126,7 +126,7 @@
       "#000000"
     ],
     "KEYBOARD": [
-      "#111011",
+      "#1A1A1F",
       "#FFFFFF"
     ]
   },
@@ -138,7 +138,7 @@
     "PRIMARY_DARK_360": "#C8C8C8",
     "PRIMARY_DARK_400": "#bebee3",
     "PRIMARY_DARK_500": "#697eab",
-    "PRIMARY_DARK_600": "#111011",
+    "PRIMARY_DARK_600": "#1A1A1F",
     "PRIMARY_DARK_630": "#1a1b21",
     "PRIMARY_DARK_700": "#101010",
     "PRIMARY_DARK_800": "#151515",
@@ -147,11 +147,11 @@
     "STATUS_GREEN_600": "#bfb9ff"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#111011"
+    "CHAT_GREY": "#1A1A1F"
   },
   "background": {
     "blur": 0.1,
-    "url": "https://media.discordapp.net/attachments/836793351818706984/1011473596704636928/image0.jpg",
+    "url": "https://raw.githubusercontent.com/pegasusat/temp/master/Discord_darker_background.png",
     "alpha": 1.0
   }
 }
