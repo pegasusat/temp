@@ -1,11 +1,11 @@
 {
-    "name": "bliss_mod",
+    "name": "bliss_mod_light",
     "version": "1.0",
-    "description": "Theme based on SA Bliss keycaps.",
-    "color": "#eed1c7",
+    "description": "Bliss mod light",
+    "color": "#8881CC",
     "authors": [{
         "name": "me",
-        "id": "419610859392860126"
+        "id": "419610859392870000"
     }],
     "theme_color_map": {
         "KEYBOARD": [
@@ -16,7 +16,7 @@
         "BACKGROUND_SECONDARY": ["#383838", "#BDB9B3"],
         "BACKGROUND_SECONDARY_ALT": ["#383838", "#FFFFFF"],
         "BACKGROUND_TERTIARY": ["#383838", "#FFFFFF"],
-        "BACKGROUND_ACCENT": ["#383838", "#FFFFFF"],
+        "BACKGROUND_ACCENT": ["#8881CC", "#FFFFFF"],
         "BACKGROUND_FLOATING": ["#383838", "#FFFFFF"],
         "BACKGROUND_NESTED_FLOATING": ["#383838", "#FFFFFF"],
         "BACKGROUND_MOBILE_PRIMARY": ["#383838", "#FFFFFF"],
