@@ -1,0 +1,49 @@
+{
+    "name": "bliss_white",
+    "version": "1.0",
+    "description": "White theme based on SA Bliss keycaps.",
+    "color": "#A173F4",
+    "authors": [{
+        "name": "me",
+        "id": "409010859392861234"
+    }],
+    "theme_color_map": {
+        "KEYBOARD": [
+            "#FFFFFF",
+            "#000000"
+        ],
+        "BACKGROUND_PRIMARY": ["#FFFFFF", "#BDB9B3"],
+        "BACKGROUND_SECONDARY": ["#FFFFFF", "#BDB9B3"],
+        "BACKGROUND_SECONDARY_ALT": ["#FFFFFF", "#000000"],
+        "BACKGROUND_TERTIARY": ["#FFFFFF", "#000000"],
+        "BACKGROUND_ACCENT": ["#FFFFFF", "#000000"],
+        "BACKGROUND_FLOATING": ["#FFFFFF", "#000000"],
+        "BACKGROUND_NESTED_FLOATING": ["#FFFFFF", "#000000"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#FFFFFF", "#000000"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#FFFFFF", "#000000"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["#FFFFFF", "#000000"],
+        "BACKGROUND_MODIFIER_SELECTED": ["#FFFFFF", "#000000"],
+        "BACKGROUND_MODIFIER_ACCENT": ["#FFFFFF", "#000000"],
+        "CHANNELTEXTAREA_BACKGROUND": ["#FFFFFF", "#000000"],
+        "CHANNELS_DEFAULT": ["#FFFFFF", "#000000"],
+        "TEXT_NORMAL": ["#FFFFFF", "#000000"],
+        "TEXT_MUTED": ["#b69f98", "#4D4C4C"],
+        "TEXT_LINK": ["#A173F4", "#2d53b4"]
+    },
+    "colours": {
+        "PRIMARY_DARK": "#A173F4",
+        "WHITE": "#727577",
+        "BRAND_NEW": "#A173F4",
+        "STATUS_RED": "#A173F4"
+    },
+    
+    "unsafe_colors": {
+        "CHAT_GREY": "#000000"
+    },
+	"background": {
+		"blur": 0.1,
+		"url": "https://raw.githubusercontent.com/pegasusat/temp/master/Discord_white_2.png",
+		"alpha": 1
+	}
+
+}
