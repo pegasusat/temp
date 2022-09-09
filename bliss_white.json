@@ -12,48 +12,14 @@
             "#FFFFFF",
             "#000000"
         ],
-        "BACKGROUND_PRIMARY": ["#FFFFFF", "#BDB9B3"],
-        "BACKGROUND_SECONDARY": ["#FFFFFF", "#BDB9B3"],
-        "BACKGROUND_SECONDARY_ALT": ["#FFFFFF", "#000000"],
-        "BACKGROUND_TERTIARY": ["#FFFFFF", "#000000"],
-        "BACKGROUND_ACCENT": ["#FFFFFF", "#000000"],
-        "BACKGROUND_FLOATING": ["#FFFFFF", "#000000"],
-        "BACKGROUND_NESTED_FLOATING": ["#FFFFFF", "#000000"],
-        "BACKGROUND_MOBILE_PRIMARY": ["#FFFFFF", "#000000"],
-        "BACKGROUND_MOBILE_SECONDARY": ["#FFFFFF", "#000000"],
-        "BACKGROUND_MODIFIER_ACTIVE": ["#FFFFFF", "#000000"],
-        "BACKGROUND_MODIFIER_SELECTED": ["#24262B", "#000000"],
-        "BACKGROUND_MODIFIER_ACCENT": ["#383838", "#000000"],
-        "CHANNELTEXTAREA_BACKGROUND": ["#30243d", "#000000"],
-        "CHANNELS_DEFAULT": ["#5e6061", "#000000"],
-        "HEADER_PRIMARY": ["#F3E0DA", "#000000"],
-        "HEADER_SECONDARY": ["#f3e0da", "#000000"],
-        "INTERACTIVE_ACTIVE": ["#F3E0DA", "#000000"],
-        "INTERACTIVE_MUTED": ["#4d4e50", "#000000"],
-        "INTERACTIVE_NORMAL": ["#f3e0da", "#000000"],
-        "TEXT_NORMAL": ["#beb9b3", "#000000"],
-        "TEXT_MUTED": ["#b69f98", "#dfdfdf"],
-        "TEXT_LINK": ["#EED1C7", "#2d53b4"]
     },
     "colours": {
-        "PRIMARY_DARK": "#eed1c7",
-        "PRIMARY_DARK_100": "#f3e0da",
-        "PRIMARY_DARK_200": "#f3e0da",
-        "PRIMARY_DARK_300": "#5a5e6b",
-        "PRIMARY_DARK_360": "#41444d",
-        "PRIMARY_DARK_400": "#f3e0da",
-        "PRIMARY_DARK_500": "#f3e0da",
-        "PRIMARY_DARK_600": "#383838",
-        "PRIMARY_DARK_630": "#36393f",
-        "PRIMARY_DARK_700": "#383838",
-        "PRIMARY_DARK_800": "#383838",
-        "WHITE": "#727577",
         "BRAND_NEW": "#eed1c7",
         "STATUS_RED": "#eed1c7"
     },
     
     "unsafe_colors": {
-        "CHAT_GREY": "#000000"
+        "CHAT_GREY": "#383838"
     },
 	"background": {
 		"blur": 0.1,
