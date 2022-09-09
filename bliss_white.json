@@ -31,8 +31,6 @@
         "TEXT_LINK": ["#A173F4", "#2d53b4"]
     },
     "colours": {
-        "PRIMARY_DARK": "#A173F4",
-        "WHITE": "#727577",
         "BRAND_NEW": "#A173F4",
         "STATUS_RED": "#A173F4"
     },
