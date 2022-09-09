@@ -31,7 +31,7 @@
         "INTERACTIVE_ACTIVE": ["#F3E0DA", "#FFFFFF"],
         "INTERACTIVE_MUTED": ["#4d4e50", "#FFFFFF"],
         "INTERACTIVE_NORMAL": ["#f3e0da", "#FFFFFF"],
-        "TEXT_NORMAL": ["#beb9b3", "#FFFFFF"],
+        "TEXT_NORMAL": ["#beb9b3", "#000000"],
         "TEXT_MUTED": ["#b69f98", "#dfdfdf"],
         "TEXT_LINK": ["#EED1C7", "#2d53b4"]
     },
